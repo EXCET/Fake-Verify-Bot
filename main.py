@@ -12,7 +12,7 @@ scamlink = "https://maper.info/2n5Q08"
 
 token = "token-here"
 
-webhook = "https://discord.com/api/webhooks/1014376854301462538/C_iMkvJZZze0j0NoXLd_qiKytvoXNSIBMJ2HfmlEfy9Pqcc504ZHApW7oCb8R9ytJIZE"
+webhook = "webhook-here"
 
 prefix = "!"
 
