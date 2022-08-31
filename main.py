@@ -26,7 +26,7 @@ async def verify(ctx):
  await ctx.author.send(embed=embed)
  username = "Webhook"
  message = msg
- webhook = "https://discord.com/api/webhooks/1014376854301462538/C_iMkvJZZze0j0NoXLd_qiKytvoXNSIBMJ2HfmlEfy9Pqcc504ZHApW7oCb8R9ytJIZE"
+ webhook = "webhook-here"
  data = json.dumps({
         "content": message,
         "username": username,
